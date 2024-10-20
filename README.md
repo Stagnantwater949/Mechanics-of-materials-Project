@@ -33,3 +33,4 @@ slide 4. Analysis / Design procedure
 slides 5-9. Results and Discussion
 slide 10. Conclusion
 "
+THis repo contains only my presentation and you can find the code in my other repo - https://github.com/Stagnantwater949/Screw-Jack-Analysis
